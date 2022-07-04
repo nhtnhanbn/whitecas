@@ -21,4 +21,4 @@ Returns the probability of *x* successes from *n* draws, without replacement bet
 
 A box contains **n** marbles, of which **k** marbles are coloured red and the remainder **n-k** marbles are coloured green. 2 marbles are drawn from the box, without replacement between draws. Find the probability that the 2 marbles drawn are the same colour. (2019 Methods Exam 2 Section A Question 17)
 
-![hPDf(0, 2, k, n)+hPDf(2, 2, k, n)](/files/hPDf.png)
+![hPDf(0, 2, k, n)+hPDf(2, 2, k, n)]({{ '/files/hPDf.png' | relative_url }})

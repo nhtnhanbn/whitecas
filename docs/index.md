@@ -3,7 +3,7 @@ sitemap: true
 title: Getting Started
 ---
 
-Find all commands in the [commands reference](/docs/commands).
+Find all commands in the [commands reference]({{ '/docs/commands' | relative_url }}).
 
 ## Installation
 
@@ -27,7 +27,7 @@ This allows you to restore the calculator's files if anything goes wrong. The ca
 
 ### Download
 
-[Download](/download) the files you want to your computer. Unzip if you download a .zip package.
+[Download]({{ '/download' | relative_url }}) the files you want to your computer. Unzip if you download a .zip package.
 
 Connect the calculator to the computer with the USB cable. On the calculator, when it asks to Select Connection Mode, select USB Flash. On the computer, drag or copy/paste the .xcp downloads from the computer to the calculator drive.
 
@@ -37,6 +37,6 @@ On the calculator, go to Menu (at the bottom), System application (on the 2nd pa
 
 ### Run commands
 
-Commands can be run from the Main application if the commands are stored in the same folder as your current folder or in the "library" folder (see the Variable Manager). For syntax, see the [commands reference](/docs/commands).
+Commands can be run from the Main application if the commands are stored in the same folder as your current folder or in the "library" folder (see the Variable Manager). For syntax, see the [commands reference]({{ '/docs/commands' | relative_url }}).
 
 If execution of any command, including builtin calculator functions, is taking too long or forever, break execution by pressing the Clear button on the calculator's hard keyboard.

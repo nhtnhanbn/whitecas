@@ -18,4 +18,4 @@ Returns the probability of *x* successes from *n* trials with *p* probability of
 
 Four fair coins are tossed at the same time. Find the probability that there is an equal number of heads and tails, given that there is at least one head. (2021 Methods Exam 2 Section A Question 15)
 
-![biPDf(2, 4, 1/2)/(1-biPDf(0, 4, 1/2))](/files/biPDf.png)
+![biPDf(2, 4, 1/2)/(1-biPDf(0, 4, 1/2))]({{ '/files/biPDf.png' | relative_url }})

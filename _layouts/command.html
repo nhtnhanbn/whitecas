@@ -4,7 +4,10 @@ layout: default
 
 <h2>{{ page.slug }} ({{ page.commandtype }})</h2>
 
-<h3><a href="/download/{{ page.slug }}-({{ page.commandtype }}).xcp">Download</a></h3>
+{% capture download %}/download/{{ page.slug }}-({{ page.commandtype }}).xcp
+{% endcapture %}
+
+<h3><a href="{{ download | relative_url }}">Download</a></h3>
 
 <div class="container">
   {{ content }}

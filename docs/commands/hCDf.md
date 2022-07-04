@@ -24,4 +24,4 @@ Returns the probability of between and including *l* and *u* successes from *n* 
 
 A bag contains 5 blue marbles and 4 red marbles. 4 balls are taken from the bag, without replacement between draws. Find the probability that the proportion of blue marbles in the 4 draws is greater than half. (2017 NHT Methods Exam 2 Section A Question 11)
 
-![hCDf(3, 4, 4, 5, 5+4)](/files/hCDf.png)
+![hCDf(3, 4, 4, 5, 5+4)]({{ '/files/hCDf.png' | relative_url }})

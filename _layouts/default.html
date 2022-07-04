@@ -3,20 +3,20 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" type="text/css" href="/assets/main.css">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/main.css' | relative_url }}">
   </head>
 
   <body>
     <h1>
-    <a href="/"><span style="text-decoration:underline; color:black">Casio ClassPad II Custom Commands</span></a>
+    <a href="{{ '/' | relative_url }}"><span style="text-decoration:underline; color:black">Casio ClassPad II Custom Commands</span></a>
     </h1>
     <nav>
       <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/docs">Getting started</a></li>
-        <li><a href="/docs/commands">Commands</a></li>
-        <li><a href="/download">Downloads</a></li>
-        <li><a href="/contribute">Contribute</a></li>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/docs' | relative_url }}">Getting started</a></li>
+        <li><a href="{{ '/docs/commands' | relative_url }}">Commands</a></li>
+        <li><a href="{{ '/download' | relative_url }}">Downloads</a></li>
+        <li><a href="{{ '/contribute' | relative_url }}">Contribute</a></li>
       </ul>
     </nav>
     <div class="container">
@@ -25,12 +25,12 @@
 
     <footer>
       <ul>
-        <li><a href="/README">README</a></li>
+        <li><a href="{{ '/README' | relative_url }}">README</a></li>
         <li><a href="https://github.com/nhtnhanbn/whitecas">GitHub</a></li>
         <li><a href="mailto:nhtnhanbn@gmail.com">Email</a></li>
         <li><a href="https://nhtnhanbn.github.io">Personal site</a></li>
       </ul>
-      <p>Site by me, thanks to <a href="https://jekyllrb.com">Jekyll</a>, <a href="https://github.io">GitHub Pages</a>, and <a href="https://github.com/nhtnhanbn/whitecas#readme">others</a>.</p>
+      <p>Site by me, thanks to <a href="https://jekyllrb.com">Jekyll</a>, <a href="https://github.io">GitHub Pages</a>, and <a href="{{ '/README' | relative_url }}">others</a>.</p>
     </footer>
 
   </body>

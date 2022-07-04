@@ -10,6 +10,6 @@ In alphabetical order. All commands currently relevant to VCE Mathematical Metho
 
 {% for page in site.pages %}
   {% if page.layout == "command" %}
-[{{ page.slug }}]({{ page.url }}) - {{ page.description }}
+[{{ page.slug }}]({{ page.url | relative_url }}) - {{ page.description }}
   {% endif %}
 {% endfor %}

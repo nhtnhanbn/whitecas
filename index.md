@@ -18,6 +18,6 @@ The downloads from this site will not alone lead to success. Try not to turn the
 
 Other indispensable resources include the Classpad II [User's Guide](https://support.casio.com/storage/en/manual/pdf/EN/004/ClassPadII_UG_EN.pdf), [Examples](https://support.casio.com/storage/en/manual/pdf/EN/004/ClassPadII_Ex_EN.pdf) and [data management guide](https://casioeducation.com.au/wp-content/uploads/guides/Data_Management_on_the_CASIO_Classpad_II.pdf), as well as Charlie Watson's [Help Series](http://www.classpad.com.au/cp2/index.php) and [custom commands](https://charliewatson.com/casio/cpintro.php).
 
-### [Get Started](/docs)
+### [Get Started]({{ 'docs' | relative_url }})
 
-[Have your own ideas or commands?](/contribute)
+[Have your own ideas or commands?]({{ 'contribute' | relative_url }})

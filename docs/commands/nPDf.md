@@ -20,4 +20,4 @@ Returns the value of the normal distribution function with a standard deviation 
 
 Let $$ M \sim \mathrm{N}(68, 8^2) $$. Find $$ \mathrm{Pr}(60<M<90) $$. (2018 Methods Exam 2 Section B Question 4a)
 
-![graph of nPDf(x, 8, 68)](/files/nPDf.png)
+![graph of nPDf(x, 8, 68)]({{ '/files/nPDf.png' | relative_url }})

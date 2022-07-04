@@ -19,4 +19,4 @@ Returns the average rate of change of *f* between *x*=*a* and *x*=*b*.
 
 Find the average rate of change of $$ 3x^2 - 2 \sqrt{x+1} $$, between $$ x=0 $$ and $$ x=3 $$. (2016 Methods Exam 2 Section A Question 4)
 
-![aroc(3x^2-2sqrt(x+1), x, 0, 3)](/files/aroc.png)
+![aroc(3x^2-2sqrt(x+1), x, 0, 3)]({{ '/files/aroc.png' | relative_url }})

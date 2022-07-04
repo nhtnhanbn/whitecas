@@ -22,4 +22,4 @@ Returns the probability of between and including *l* and *u* successes from *n* 
 
 Let $$ X \sim \mathrm{Bi}(7, p) $$. Express $$ \mathrm{Pr}(2 \leq X \leq 3) $$ as a polynomial in terms of $$ p $$. (2017 Methods Exam 2 Section B Question 3f)
 
-![biCDf(2, 3, 7, p)](/files/biCDf.png)
+![biCDf(2, 3, 7, p)]({{ '/files/biCDf.png' | relative_url }})

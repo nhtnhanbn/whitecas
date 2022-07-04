@@ -22,4 +22,4 @@ Returns a matrix with *x*-values in the left column and *f*-values at the corres
 
 $$ X \sim \mathrm{Bi}(n, 0.1) $$. Find the least $$ n $$ such that $$ \mathrm{Pr}(X \geq 2) \geq 0.5 $$. (2021 Methods Exam 2 Section A Question 17)
 
-![discrete("binomialCDf(2, n, n, 0.1)", n, 15, 19, 1)](/files/discrete.png)
+![discrete("binomialCDf(2, n, n, 0.1)", n, 15, 19, 1)]({{ '/files/discrete.png' | relative_url }})

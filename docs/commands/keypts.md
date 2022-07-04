@@ -6,7 +6,7 @@ title: keypts (Program) - ClassPad Commands
 description: key points on a function
 ---
 
-### IMPORTANT - requires [printpts](/docs/commands/printpts) stored in the same folder as your current folder or in the "library" folder (see the Variable Manager).
+### IMPORTANT - requires [printpts]({{ '/docs/commands/printpts' | relative_url }}) stored in the same folder as your current folder or in the "library" folder (see the Variable Manager).
 
 keypts(*f*, *l*, *u*)
 
@@ -32,10 +32,10 @@ Prints and categorises coordinates of key points on y=*f* in the domain **x**ϵ[
 
 Find key points on $$ y = \dfrac{1}{5} x^5 + \dfrac{3}{4} x^4 - 2x^2 + \dfrac{12}{5} $$ for $$ x \in (-\infty, 2] $$.
 
-![keypts(1/5 x^5 + 3/4 x^4 - 2x^2 + 12/5, -∞, 2)](/files/keypts0.png)
+![keypts(1/5 x^5 + 3/4 x^4 - 2x^2 + 12/5, -∞, 2)]({{ '/files/keypts0.png' | relative_url }})
 
-![](/files/keypts1.png)
+![]({{ '/files/keypts1.png' | relative_url }})
 
-![](/files/keypts2.png)
+![]({{ '/files/keypts2.png' | relative_url }})
 
-![](/files/keypts3.png)
+![]({{ '/files/keypts3.png' | relative_url }})
