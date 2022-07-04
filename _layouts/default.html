@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" type="text/css" href="/assets/main.css">
+  </head>
+
+  <body>
+    <h1>
+    <a href="/"><span style="text-decoration:underline; color:black">Casio ClassPad II Custom Commands</span></a>
+    </h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/docs">Getting started</a></li>
+        <li><a href="/docs/commands">Commands</a></li>
+        <li><a href="/download">Downloads</a></li>
+        <li><a href="/contribute">Contribute</a></li>
+      </ul>
+    </nav>
+    <div class="container">
+      {{ content }}
+    </div>
+
+    <footer>
+      <ul>
+        <li><a href="/README">README</a></li>
+        <li><a href="https://github.com/nhtnhanbn/whitecas">GitHub</a></li>
+        <li><a href="mailto:nhtnhanbn@gmail.com">Email</a></li>
+        <li><a href="https://nhtnhanbn.github.io">Personal site</a></li>
+      </ul>
+      <p>Site by me, thanks to <a href="https://jekyllrb.com">Jekyll</a>, <a href="https://github.io">GitHub Pages</a>, and <a href="https://github.com/nhtnhanbn/whitecas#readme">others</a>.</p>
+    </footer>
+
+  </body>
+
+  {% if page.latex %}
+    {% include mathjax.html %}
+  {% endif %}
+
+</html>

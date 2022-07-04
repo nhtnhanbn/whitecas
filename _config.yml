@@ -1,0 +1,29 @@
+markdown: kramdown
+
+baseurl: /
+
+plugins:
+  - jekyll-sitemap
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "README.md"
+    values:
+      sitemap: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "docs/commands"
+    values:
+      layout: "command"
