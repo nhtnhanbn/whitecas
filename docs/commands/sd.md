@@ -3,7 +3,7 @@ latex: true
 slug: sd
 commandtype: Function
 title: sd (Function) - ClassPad Commands
-description: standard deviation
+description: standard deviation of a continuous probability distribution
 ---
 
 sd(*f*, *x*, *a*, *b*)

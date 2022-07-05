@@ -14,6 +14,8 @@ keypts(*f*, *l*, *u*)
 - *l* is the lower boundary of **x**
 - *u* is the upper boundary of **x**
 
+**Parameters should not contain variables named f, l, u. Use alternative variable names or capital letters instead.**
+
 Prints and categorises coordinates of key points on y=*f* in the domain **x**ϵ[*l*, *u*].
 - y-axis intercepts where **x**=0
 - x-axis intercepts where y=0

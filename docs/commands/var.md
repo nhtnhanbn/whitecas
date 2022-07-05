@@ -3,7 +3,7 @@ latex: true
 slug: var
 commandtype: Function
 title: var (Function) - ClassPad Commands
-description: variance
+description: variance of a continuous probability distribution
 ---
 
 var(*f*, *x*, *a*, *b*)

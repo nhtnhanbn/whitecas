@@ -14,6 +14,8 @@ statpts(*f*, *l*, *u*)
 - *l* is the lower boundary of **x** (*l* should be -∞ if *f* contains other unknown variables besides **x**)
 - *u* is the upper boundary of **x** (*u* should be ∞ if *f* contains other unknown variables besides **x**)
 
+**Parameters should not contain variables named f, l, u. Use alternative variable names or capital letters instead.**
+
 Returns a list of coordinates of stationary points on *f* in the domain **x**ϵ[*l*, *u*].
 
 ### Example

@@ -3,7 +3,7 @@ latex: true
 slug: mu
 commandtype: Function
 title: mu (Function) - ClassPad Commands
-description: expected value
+description: expected value of a continuous probability distribution
 ---
 
 mu(*f*, *x*, *a*, *b*)
