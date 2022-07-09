@@ -4,6 +4,7 @@ slug: mu
 commandtype: Function
 title: mu (Function) - ClassPad Commands
 description: expected value of a continuous probability distribution
+update: 4/7/2022
 ---
 
 mu(*f*, *x*, *a*, *b*)

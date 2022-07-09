@@ -3,6 +3,7 @@ slug: biPDf
 commandtype: Function
 title: biPDf (Function) - ClassPad Commands
 description: binomial distribution
+update: 4/7/2022
 ---
 
 biPDf(*x*, *n*, *p*)

@@ -3,6 +3,7 @@ slug: hCDf
 commandtype: Function
 title: hCDf (Function) - ClassPad Commands
 description: hypergeometric cumulative distribution (not explicitly on the Methods Study Design, but useful for certain examination questions)
+update: 4/7/2022
 ---
 
 hCDf(*l*, *u*, *n*, *M*, *N*)

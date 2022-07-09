@@ -4,6 +4,7 @@ slug: printpts
 commandtype: Program
 title: printpts (Program) - ClassPad Commands
 description: points on a function given a list of x-values
+update: 9/7/2022
 ---
 
 printpts(*f*, *s*)

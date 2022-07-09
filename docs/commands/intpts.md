@@ -4,6 +4,7 @@ slug: intpts
 commandtype: Program
 title: intpts (Program) - ClassPad Commands
 description: points of intersection of 2 functions
+update: 9/7/2022
 ---
 
 ### IMPORTANT - requires [printpts]({{ '/docs/commands/printpts' | relative_url }}) stored in the same folder as your current folder or in the "library" folder (see the Variable Manager).

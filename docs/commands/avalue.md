@@ -4,6 +4,7 @@ slug: avalue
 commandtype: Function
 title: avalue (Function) - ClassPad Commands
 description: average value
+update: 4/7/2022
 ---
 
 avalue(*f*, *x*, *a*, *b*)

@@ -4,6 +4,7 @@ slug: var
 commandtype: Function
 title: var (Function) - ClassPad Commands
 description: variance of a continuous probability distribution
+update: 4/7/2022
 ---
 
 var(*f*, *x*, *a*, *b*)

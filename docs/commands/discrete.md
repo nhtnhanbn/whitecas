@@ -4,6 +4,7 @@ slug: discrete
 commandtype: Function
 title: discrete (Function) - ClassPad Commands
 description: discrete points on a function (useful for solving certain binomial distribution questions)
+update: 4/7/2022
 ---
 
 Note - this program does not work in all cases, such as biCDf (use the builtin binomialCDf instead). Answers should be tested by the user.

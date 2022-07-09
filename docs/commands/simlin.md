@@ -4,6 +4,7 @@ slug: simlin
 commandtype: Function
 title: simlin (Function) - ClassPad Commands
 description: when do 2 lines intersect 0, 1 or ∞ times?
+update: 4/7/2022
 ---
 
 simlin(*a*, *b*, *c*, *d*, *e*, *f*, *g*)

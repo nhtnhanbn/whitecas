@@ -4,6 +4,7 @@ slug: aroc
 commandtype: Function
 title: aroc (Function) - ClassPad Commands
 description: average rate of change
+update: 4/7/2022
 ---
 
 aroc(*f*, *x*, *a*, *b*)

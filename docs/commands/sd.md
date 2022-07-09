@@ -4,6 +4,7 @@ slug: sd
 commandtype: Function
 title: sd (Function) - ClassPad Commands
 description: standard deviation of a continuous probability distribution
+update: 4/7/2022
 ---
 
 sd(*f*, *x*, *a*, *b*)

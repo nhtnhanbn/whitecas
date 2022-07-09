@@ -4,6 +4,7 @@ slug: statpts
 commandtype: Program
 title: statpts (Program) - ClassPad Commands
 description: stationary points on a function
+update: 9/7/2022
 ---
 
 ### IMPORTANT - requires [printpts]({{ '/docs/commands/printpts' | relative_url }}) stored in the same folder as your current folder or in the "library" folder (see the Variable Manager).

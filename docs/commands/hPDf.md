@@ -3,6 +3,7 @@ slug: hPDf
 commandtype: Function
 title: hPDf (Function) - ClassPad Commands
 description: hypergeometric distribution (not explicitly on the Methods Study Design, but useful for certain examination questions)
+update: 4/7/2022
 ---
 
 hPDf(*x*, *n*, *M*, *N*)

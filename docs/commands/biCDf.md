@@ -4,6 +4,7 @@ slug: biCDf
 commandtype: Function
 title: biCDf (Function) - ClassPad Commands
 description: binomial cumulative distribution
+update: 4/7/2022
 ---
 
 biCDf(*l*, *u*, *n*, *p*)

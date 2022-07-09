@@ -4,6 +4,7 @@ slug: lineof
 commandtype: Function
 title: lineof (Function) - ClassPad Commands
 description: line connecting 2 points
+update: 4/7/2022
 ---
 
 lineof(*a*, *b*, *c*, *d*, *x*)

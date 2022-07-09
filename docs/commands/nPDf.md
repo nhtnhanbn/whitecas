@@ -4,6 +4,7 @@ slug: nPDf
 commandtype: Function
 title: nPDf (Function) - ClassPad Commands
 description: normal distribution
+update: 4/7/2022
 ---
 
 nPDf(*x*, *σ*, *μ*)
