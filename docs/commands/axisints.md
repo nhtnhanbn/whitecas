@@ -11,10 +11,8 @@ description: axis intercepts on a function
 axisints(*f*, *l*, *u*)
 
 - *f* is an expression in terms of **x**
-- *l* is the lower boundary of **x** (*l* should be -∞ if *f* contains other unknown variables besides **x**)
-- *u* is the upper boundary of **x** (*u* should be ∞ if *f* contains other unknown variables besides **x**)
-
-**Parameters should not contain variables named f, l, u. Use alternative variable names or capital letters instead.**
+- *l* is the lower boundary of **x** (*l* should not be in terms of unknown variables, and should be -∞ if *f* contains other unknown variables besides **x**)
+- *u* is the upper boundary of **x** (*u* should not be in terms of unknown variables, and should be ∞ if *f* contains other unknown variables besides **x**)
 
 Returns a list of coordinates of x-axis and y-axis intercepts on *f* in the domain **x**ϵ[*l*, *u*].
 

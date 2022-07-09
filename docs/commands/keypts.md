@@ -11,10 +11,8 @@ description: key points on a function
 keypts(*f*, *l*, *u*)
 
 - *f* is an expression in terms of **x** (execution of Program may partially fail if there are other unknown variables in the expression)
-- *l* is the lower boundary of **x**
-- *u* is the upper boundary of **x**
-
-**Parameters should not contain variables named f, l, u. Use alternative variable names or capital letters instead.**
+- *l* is the lower boundary of **x** (*l* should not be in terms of unknown variables)
+- *u* is the upper boundary of **x** (*u* should not be in terms of unknown variables)
 
 Prints and categorises coordinates of key points on y=*f* in the domain **x**ϵ[*l*, *u*].
 - y-axis intercepts where **x**=0

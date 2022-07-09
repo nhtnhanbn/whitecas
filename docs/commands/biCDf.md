@@ -12,7 +12,7 @@ biCDf(*l*, *u*, *n*, *p*)
 - *n* is the number of trials
 - *p* is the probability of success each trial
 
-**All parameters must evaluate to numbers, not expressions in terms of unknown variables. Prefer to use [discrete]({{ '/docs/commands/discrete' | relative_url }}) if it would be more appropriate.**
+***l* and *u* should evaluate to numbers, not expressions in terms of unknown variables. Prefer to use [discrete]({{ '/docs/commands/discrete' | relative_url }}) if it would be more appropriate.**
 
 Equivalent to the builtin binomialCDf(*l*, *u*, *n*, *p*), but returns exact values in Standard mode whereas binomialCDf can return only decimal answers.
 

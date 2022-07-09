@@ -12,7 +12,7 @@ hCDf(*l*, *u*, *n*, *M*, *N*)
 - *M* is the number of successes in the population
 - *N* is the population size
 
-**All parameters must evaluate to numbers, not expressions in terms of unknown variables.**
+**Parameters should evaluate to numbers, not expressions in terms of unknown variables.**
 
 Equivalent to the builtin hypergeoCDf(*l*, *u*, *n*, *M*, *N*), but returns exact values in Standard mode whereas hypergeoCDf can return only decimal answers.
 

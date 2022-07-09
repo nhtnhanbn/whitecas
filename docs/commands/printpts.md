@@ -11,8 +11,6 @@ printpts(*f*, *s*)
 - *f* is an expression in terms of **x**
 - *s* is a list of **x**-values, **enclosed in { }**
 
-**Parameters should not contain variables named f, s. Use alternative variable names or capital letters instead.**
-
 Returns a list of coordinates of points on *f* corresponding to the **x**-values in *s*.
 
 ### Example
