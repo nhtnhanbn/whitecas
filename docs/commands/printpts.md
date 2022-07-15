@@ -7,7 +7,7 @@ description: points on a function given a list of x-values
 update: 9/7/2022
 ---
 
-printpts(*f*, *s*)
+printpts(*f*, {*s*})
 
 - *f* is an expression in terms of **x**
 - *s* is a list of **x**-values, **enclosed in { }**

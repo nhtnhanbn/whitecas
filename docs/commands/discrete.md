@@ -9,7 +9,7 @@ update: 4/7/2022
 
 Note - this program does not work in all cases, such as biCDf (use the builtin binomialCDf instead). Answers should be tested by the user.
 
-discrete(*f*, *x*, *l*, *u*, *h*)
+discrete("*f*", *x*, *l*, *u*, *h*)
 
 - *f* is an expression in terms of *x*, **enclosed in ” ”**
 - *x* is a variable name
