@@ -9,7 +9,7 @@ update: 4/7/2022
 
 Note - this program does not work in all cases, such as biCDf (use the builtin binomialCDf instead). Answers should be tested by the user.
 
-discrete("*f*", *x*, *l*, *u*, *h*)
+discrete(”*f* ”, *x*, *l*, *u*, *h*)
 
 - *f* is an expression in terms of *x*, **enclosed in ” ”**
 - *x* is a variable name
@@ -24,3 +24,5 @@ Returns a matrix with *x*-values in the left column and *f*-values at the corres
 $$ X \sim \mathrm{Bi}(n, 0.1) $$. Find the least $$ n $$ such that $$ \mathrm{Pr}(X \geq 2) \geq 0.5 $$. (2021 Methods Exam 2 Section A Question 17)
 
 ![discrete("binomialCDf(2, n, n, 0.1)", n, 15, 19, 1)]({{ '/files/discrete.png' | relative_url }})
+
+#### Contributed by [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})

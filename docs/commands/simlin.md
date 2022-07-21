@@ -22,3 +22,5 @@ Returns a list.
 Find the largest set of values of $$ a $$ for which the simultaneous linear equations $$ ax-3y=5 $$ and $$ 3x-ay=8-a $$ have 0 solutions. (Sample Methods Exam 2 Section A Question 12)
 
 ![simlin(a, -3, 5, 3, -a, 8-a, a)]({{ '/files/simlin.png' | relative_url }})
+
+#### Contributed by [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})

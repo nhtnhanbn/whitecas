@@ -23,3 +23,5 @@ Returns a list of coordinates of points of intersection of *f* and *g*.
 Find the coordinates of the points of intersection of the graphs of $$ (x-1)^3 (x+2)^3 $$ and $$ (x-1)^2 (x+2)^3 $$. (2019 NHT Methods Exam 2 Section B Question 1a)
 
 ![intpts((x-1)^3 (x+2)^3, (x-1)^2 (x+2)^3, -∞, ∞)]({{ '/files/intpts.png' | relative_url }})
+
+#### Contributed by [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})

@@ -40,3 +40,5 @@ Find key points on $$ y = \dfrac{1}{5} x^5 + \dfrac{3}{4} x^4 - 2x^2 + \dfrac{12
 ![]({{ '/files/keypts2.png' | relative_url }})
 
 ![]({{ '/files/keypts3.png' | relative_url }})
+
+#### Contributed by [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})

@@ -32,3 +32,5 @@ $$ \left\{ \begin{array}{ll}
 (2018 Methods Exam 2 Section B Question 4e)
 
 ![mu(3/50 (t/50)^2 e^(-(t/50)^3), t, 0, ∞)]({{ '/files/mu.png' | relative_url }})
+
+#### Contributed by [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})

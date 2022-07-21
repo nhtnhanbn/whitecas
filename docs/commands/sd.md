@@ -33,3 +33,5 @@ $$ \left\{ \begin{array}{ll}
 (2021 Methods Exam 2 Section B Question 4g)
 
 ![sd(function, x, 0, 50)]({{ '/files/sd.png' | relative_url }})
+
+#### Contributed by [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})

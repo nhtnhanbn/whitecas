@@ -32,3 +32,5 @@ $$ \left\{ \begin{array}{ll}
 (2021 NHT Methods Exam 2 Section A Question 14)
 
 ![var(0.2e^(-0.2x), x, 0, ∞)]({{ '/files/var.png' | relative_url }})
+
+#### Contributed by [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})

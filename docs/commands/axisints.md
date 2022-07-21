@@ -24,3 +24,5 @@ Let $$ f(x)=8-2^{x-1} $$. Find the area bound by the graph of $$ f(x) $$ and the
 This solution also uses [lineof]({{ '/docs/commands/lineof' | relative_url }}).
 
 ![axisints(8-2^(x-1), -∞, ∞)]({{ '/files/axisints.png' | relative_url }})
+
+#### Contributed by [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})
