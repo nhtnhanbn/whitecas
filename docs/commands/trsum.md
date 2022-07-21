@@ -1,0 +1,28 @@
+---
+latex: true
+slug: trsum
+commandtype: Function
+title: trsum (Function) - ClassPad Commands
+description: approximation of definite integrals using the trapezium rule
+update: 21/7/2022
+---
+
+trsum(*f*, *v*, *a*, *b*, *w*)
+
+- *f* is an expression in terms of *v*
+- *v* is a variable name
+- *a* is the *v*-value of the starting point
+- *b* is the *v*-value of the ending point
+- *w* is the trapezium width
+
+Returns the approximation to $$ \int_a^b f dv $$ using trapeziums of width *w* and vertical parallel side lengths equal to the value of *f* at the trapezium's left and right endpoints.
+
+*The [trapezium rule](https://en.wikipedia.org/wiki/Trapezoidal_rule) is on the VCE Mathematical Methods Study Design introduced from 2023.*
+
+### Example
+
+Find the approximation of $$ \int_0^{10} x^2 dx $$ using the trapezium rule with trapeziums of width $$ 2 $$.
+
+![trsum(x^2, x, 0, 10, 2)]({{ '/files/trsum.png' | relative_url }})
+
+#### Contributed by [{{ site.data.contributors.nathanchen.name }}]({{ site.data.contributors.nathanchen.url }})
