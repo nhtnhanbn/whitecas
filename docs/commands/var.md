@@ -16,6 +16,8 @@ var(*f*, *x*, *a*, *b*)
 
 For fastest calculation time, the domain [*a*, *b*] should be as small as possible.
 
+**If *f* is a piecewise function it should be entered raw not as a user-defined function.**
+
 **The integral of *f* over the domain [*a*, *b*] must equal 1, as this is assumed by the var function.**
 
 Returns the variance of the continuous probability distribution defined by the probability density function *f* over the domain [*a*, *b*].

@@ -16,6 +16,8 @@ mu(*f*, *x*, *a*, *b*)
 
 For fastest calculation time, the domain [*a*, *b*] should be as small as possible.
 
+**If *f* is a piecewise function it should be entered raw not as a user-defined function.**
+
 **The integral of *f* over the domain [*a*, *b*] must equal 1, as this is assumed by the mu function.**
 
 Returns the mean of the continuous probability distribution defined by the probability density function *f* over the domain [*a*, *b*].
@@ -25,7 +27,7 @@ Returns the mean of the continuous probability distribution defined by the proba
 Find the expected value of $$ t $$ for the probability density function
 
 $$ \left\{ \begin{array}{ll}
-\dfrac{3}{50} (\dfrac{t}{50})^2 e^{ -(\tfrac{t}{50})^3 } & t \geq 0 \\
+\dfrac{3}{50} \left( \dfrac{t}{50} \right) ^ 2 e^{ - \left( \tfrac{t}{50} \right) ^ 3 } & t \geq 0 \\
 \ 0 & t < 0 \end{array}
 \right. $$
 
