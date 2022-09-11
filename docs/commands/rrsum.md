@@ -19,7 +19,7 @@ Returns the approximation to $$ \int_a^b f dv $$ using rectangles of width *w* a
 
 ### Example
 
-Find the approximation of the area under $$ y = 2\cos(2x) + 3 $$ for $$ x \in \left[ 0, \dfrac{\pi}{2} \right] $$, using rectangles of width $$ \dfrac{\pi}{6} $$ and height equal to the value of $$ y $$ at the rectangle's right endpoint, as a fraction of the exact area.
+Find the approximation of the area under $$ y = 2\cos(2x) + 3 $$ for $$ x \in \left[ 0, \dfrac{\pi}{2} \right] $$, using rectangles of width $$ \dfrac{\pi}{6} $$ and height equal to the value of $$ y $$ at the rectangle's right endpoint, as a fraction of the exact area. (2018 Methods Exam 2 Section A Question 16)
 
 ![rrsum(y, x, 0, pi/2, pi/6)/int(y, x, 0, pi/2)]({{ '/files/rrsum.png' | relative_url }})
 
