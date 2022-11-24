@@ -9,4 +9,6 @@ title: Downloads
 
 [Download individual commands]({{ '/docs/commands' | relative_url }})
 
+[Download Mathematical Methods commands]({{ '/download/whitecas_methods.zip' | relative_url }})
+
 [Download all commands]({{ '/download/whitecas.zip' | relative_url }})

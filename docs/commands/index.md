@@ -6,7 +6,11 @@ title: Commands reference
 
 ## Commands reference
 
-In alphabetical order. All commands currently relevant to VCE Mathematical Methods. Documentation applicable for latest updates of commands.
+[Commands relevant to Mathematical Methods]({{ '/docs/commands/methods' | relative_url }})
+
+[Commands relevant to only Specialist Mathematics]({{ '/docs/commands/specialist' | relative_url }})
+
+All commands in dictionary order. Documentation applicable for latest updates of commands.
 
 {% for page in site.pages %}
   {% if page.layout == "command" %}

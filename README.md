@@ -5,10 +5,10 @@
 
 Site maintained by [Nhan](https://nhtnhanbn.github.io).
 
-Custom commands for the Casio ClassPad II designed especially for VCE Mathematical Methods, Specialist Mathematics to be added in the future.
+Custom commands for the Casio ClassPad II designed especially for VCE Mathematical Methods and Specialist Mathematics.
 
-All commands were written by the contributors, but may have been inspired by others.
-I cannot fully guarantee no harm or damage as a result of the files or advice on the site, nor can I guarantee that commands will be always correct or bug-free.
+All commands were written by the credited contributors, but may have been inspired by others.
+We cannot fully guarantee no harm or damage as a result of the files or advice on the site, nor can we guarantee that commands will be always correct or bug-free.
 
 Free to use, copy and modify, but please be decent and play fair.
 
