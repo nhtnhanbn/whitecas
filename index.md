@@ -5,7 +5,7 @@ title: ClassPad Custom Commands
 
 ## Casio ClassPad II Custom Commands
 
-Welcome! This site hosts a collection of custom commands (functions and programs) for the Casio ClassPad II (white CAS). These commands have helped students to achieve high study scores for VCE Mathematical Methods, and hopefully you too will find them helpful.
+Welcome! This site hosts a collection of custom commands (functions and programs) for the Casio ClassPad II (white CAS). These commands have helped students to achieve high study scores for VCE Mathematical Methods and Specialist Mathematics, and hopefully you too will find them helpful.
 
 If you encounter any bugs, please [email Nhan](mailto:nhtnhanbn@gmail.com).
 
