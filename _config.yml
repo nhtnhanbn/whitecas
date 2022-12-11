@@ -4,6 +4,7 @@ baseurl: /
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 defaults:
   -
