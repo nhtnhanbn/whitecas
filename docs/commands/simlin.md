@@ -19,8 +19,8 @@ Returns a list.
 
 ### Example
 
-Find the largest set of values of $$ a $$ for which the simultaneous linear equations $$ ax-3y=5 $$ and $$ 3x-ay=8-a $$ have 0 solutions. (Sample Methods Exam 2 Section A Question 12)
+Find the largest set of values of $$ m $$ for which the simultaneous linear equations $$ mx+7y=12 $$ and $$ 7x+my=m $$ have 1 solution for $$ (x, y) $$. (2017 NHT Methods Exam 2 Section A Question 3)
 
-![simlin(a, -3, 5, 3, -a, 8-a, a)]({{ '/files/simlin.png' | relative_url }})
+![simlin(m, 7, 12, 7, m, m, m)]({{ '/files/simlin.png' | relative_url }})
 
 #### Contributed by [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})
