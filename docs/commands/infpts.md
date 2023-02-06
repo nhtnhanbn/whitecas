@@ -4,7 +4,6 @@ slug: infpts
 commandtype: Program
 title: infpts (Program) - ClassPad Commands
 description: possible points of inflection on a function
-sm: true
 update: 23/11/2022
 ---
 
