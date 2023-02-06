@@ -27,7 +27,7 @@ Prints and categorises coordinates of key points on y=*f* in the domain **x**ϵ[
 - possible points of inflection where *f* $$''$$=0 and *f* $$'''$$=0 (users should verify the nature of these points themselves)
 - endpoints where **x**=*l* and **x**=*u*
 
-*Non-stationary [points of inflection](https://en.wikipedia.org/wiki/Inflection_point) and the [2nd and 3rd derivative tests](https://en.wikipedia.org/wiki/Derivative_test) are not on the VCE Mathematical Methods Study Design.*
+*The [2nd and 3rd derivative tests](https://en.wikipedia.org/wiki/Derivative_test) are not on the VCE Mathematical Methods Study Design.*
 
 ### Example
 
