@@ -17,8 +17,6 @@ trsum(*f*, *v*, *a*, *b*, *w*)
 
 Returns the approximation to $$ \int_a^b f dv $$ using trapeziums of width *w* and vertical parallel side lengths equal to the value of *f* at the trapezium's left and right endpoints.
 
-*The [trapezium rule](https://en.wikipedia.org/wiki/Trapezoidal_rule) is on the VCE Mathematical Methods Study Design introduced from 2023.*
-
 ### Example
 
 Find the approximation of
