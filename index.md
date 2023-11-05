@@ -21,3 +21,7 @@ Other indispensable resources include the Classpad II [User's Guide](https://sup
 ### [Get Started]({{ 'docs' | relative_url }})
 
 [Have your own ideas or commands?]({{ 'contribute' | relative_url }})
+
+Looking for TI-Nspire commands? [Open Source VCE](https://opensourcevce.github.io) and [ScriptedMath](http://scriptedmath.com)
+
+Looking for Mathematica commands? [Tungsten](https://github.com/saikumarmk/tungsten)
