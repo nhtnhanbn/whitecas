@@ -5,10 +5,6 @@ title: Contribute YOUR Commands
 
 ## Contributions are welcome
 
-The white CAS, being the inferior calculator compared to the black and blue CASes, suffers not only from worse performance/capability but also a dearth of resources, especially custom functions/programs. Hopefully this site will be able to make some small improvement to that situation.
-
 If you have written or know about a useful function, program or eActivity that you are willing to make freely available, do [email Nhan](mailto:nhtnhanbn@gmail.com) a source file or post of it. Even if it seems trivial or basic it is still welcome if it is beneficial, indeed several of the commands that have been uploaded are quite simple. Authors of files will receive due credit.
 
-If you have any ideas or improvements, do [email Nhan](mailto:nhtnhanbn@gmail.com). You will, particularly if you author any code adopted, receive due credit.
-
-Or submit an issue on GitHub or something. We may or may not realise if you do so.
+If you have any ideas or improvements, do [email Nhan](mailto:nhtnhanbn@gmail.com) or submit something on [GitHub](https://github.com/nhtnhanbn/whitecas). You will, particularly if you author any code adopted, receive due credit.
