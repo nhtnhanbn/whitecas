@@ -22,10 +22,8 @@ Other indispensable resources include the Classpad II [User's Guide](https://sup
 
 ### [Get Started]({{ 'docs' | relative_url }})
 
-[Have your own ideas or commands?]({{ 'contribute' | relative_url }})
-
 Looking for more ClassPad commands? [Casio Solutions](https://charliewatson.com/casio/cpintro.php)
 
-Looking for TI-Nspire commands? [Open Source VCE](https://opensourcevce.github.io) and [ScriptedMath](http://scriptedmath.com)
+Looking for TI-Nspire commands? [LazyMath](https://lazymath.github.io) and [ScriptedMath](http://scriptedmath.com)
 
-Looking for Mathematica commands? [Tungsten](https://github.com/saikumarmk/tungsten)
+Looking for Mathematica commands? [Tungsten](https://github.com/saikumarmk/tungsten) and [jmssTools](https://github.com/starfihgter/jmssTools)
