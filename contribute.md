@@ -11,4 +11,6 @@ If you have any ideas or improvements, do [email Nhan](mailto:nhtnhanbn@gmail.co
 
 ### Contributors
 
-[{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }}), [{{ site.data.contributors.nathanchen.name }}]({{ site.data.contributors.nathanchen.url }})
+{% for contributor in site.data.contributors %}
+- [{{ contributor[1].name }}]({{ contributor[1].url }})
+{% endfor %}
