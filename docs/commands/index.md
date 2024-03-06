@@ -12,7 +12,7 @@ title: Commands reference
 
 More commands available at [Casio Solutions](https://charliewatson.com/casio/cpintro.php)
 
-All commands in dictionary order. Documentation applicable for latest updates of commands.
+Documentation applicable for latest updates of commands. [Changelog]({{ '/docs/changelog' | relative_url }})
 
 {% for page in site.pages %}
   {% if page.layout == "command" %}

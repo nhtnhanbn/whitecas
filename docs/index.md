@@ -33,10 +33,12 @@ Connect the calculator to the computer with the USB cable. On the calculator, wh
 
 Ensure that you safely eject the calculator USB from your computer before the cable is disconnected.
 
-On the calculator, go to Menu (at the bottom), System application (on the 2nd page of the menu), under the Storage tab View Storage & Import, Select, tick the files you want to download, Import. Select the folder you want to add the files to (I suggest the library folder as this allows you to run all commands by the name of the command alone without specifying the path, and also adds functions to the Catalog on the soft keyboard), then press OK.
+On the calculator, go to Menu (at the bottom), System application (on the 2nd page of the menu), under the Storage tab View Storage & Import, Select, tick the files you want to download, Import. Select the folder you want to add the files to (I suggest the library folder for "variables", which are the functions and programs, as this allows you to run all commands by the name of the command alone without specifying the path, and also adds functions to the Catalog on the soft keyboard), then press OK.
 
 ### Run commands
 
-Commands can be run from the Main application if the commands are stored in the same folder as your current folder or in the "library" folder (see the Variable Manager). For syntax, see the [commands reference]({{ '/docs/commands' | relative_url }}).
+Functions and programs can be run in the Main application if the commands are stored in the same folder as your current folder or in the "library" folder (see the Variable Manager). For syntax, see the [commands reference]({{ '/docs/commands' | relative_url }}).
+
+eActvities can be used in the eActivity application through File, Open.
 
 If execution of any command, including builtin calculator functions, is taking too long or forever, break execution by pressing the Clear button on the calculator's hard keyboard.

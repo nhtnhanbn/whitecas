@@ -10,7 +10,7 @@ title: Specialist commands reference
 
 [All commands]({{ '/docs/commands' | relative_url }})
 
-Commands relevant to only Specialist Mathematics in dictionary order. Documentation applicable for latest updates of commands.
+Commands relevant to only Specialist Mathematics. Documentation applicable for latest updates of commands. [Changelog]({{ '/docs/changelog' | relative_url }})
 
 {% for page in site.pages %}
   {% if page.layout == "command" and page.sm == true %}

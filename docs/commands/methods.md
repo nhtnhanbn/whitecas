@@ -8,7 +8,7 @@ title: Methods commands reference
 
 [All commands]({{ '/docs/commands' | relative_url }})
 
-Commands relevant to Mathematical Methods in dictionary order. Documentation applicable for latest updates of commands.
+Commands relevant to Mathematical Methods. Documentation applicable for latest updates of commands. [Changelog]({{ '/docs/changelog' | relative_url }})
 
 {% for page in site.pages %}
   {% if page.layout == "command" and page.sm != true %}

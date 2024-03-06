@@ -1,6 +1,14 @@
-nhan:
+- nhan:
   name: Nhan
   url: https://nhtnhanbn.github.io
 
-nathanchen:
+- nathanchen:
   name: Nathan Chen
+  
+- kevin:
+  name: Kevin
+  url: https://lazymath.github.io
+  
+- charliewatson:
+  name: Charlie Watson
+  url: https://charliewatson.com/casio/cpintro.php
