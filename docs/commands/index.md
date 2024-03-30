@@ -6,6 +6,8 @@ title: Commands reference
 
 ## Commands reference
 
+[Bound references]({{ '/docs/commands/bound' | relative_url }})
+
 [Commands relevant to Mathematical Methods]({{ '/docs/commands/methods' | relative_url }})
 
 [Commands relevant to only Specialist Mathematics]({{ '/docs/commands/specialist' | relative_url }})

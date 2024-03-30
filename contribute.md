@@ -12,5 +12,4 @@ If you have any ideas or improvements, do [email Nhan](mailto:nhtnhanbn@gmail.co
 ### Contributors
 
 {% for contributor in site.data.contributors %}
-- [{{ contributor[1].name }}]({{ contributor[1].url }})
-{% endfor %}
+- [{{ contributor[1].name }}]({{ contributor[1].url }}) {% endfor %}
