@@ -18,8 +18,8 @@ Returns the average value of *f* between *x*=*a* and *x*=*b*.
 
 ### Example
 
-Find the average value of $$ \dfrac{4500}{7} \left( e^{ - \tfrac{t}{5} } - e^{ - \tfrac{9t}{10} } \right) $$, between $$ t=0 $$ and $$ t=6 $$. (2018 Methods Exam 2 Section B Question 2c)
+Find the average value of $$ h(t) = -60 \cos \left( \dfrac{\pi t}{15} \right) + 75 $$, between $$ t=0 $$ and $$ t=\dfrac{30}{4} $$. (2023 Methods Exam 2 Section B Question 2b)
 
-![avalue(4500/7(e^(-t/5)-e^(-9t/10)), t, 0, 6)]({{ '/files/avalue.png' | relative_url }})
+![avalue(h(t), t, 0, 30/4)]({{ '/files/avalue.png' | relative_url }})
 
 #### Contributed by [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})

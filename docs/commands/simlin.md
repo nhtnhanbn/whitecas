@@ -19,8 +19,8 @@ Returns a list.
 
 ### Example
 
-Find the largest set of values of $$ m $$ for which the simultaneous linear equations $$ mx+7y=12 $$ and $$ 7x+my=m $$ have 1 solution for $$ (x, y) $$. (2017 NHT Methods Exam 2 Section A Question 3)
+Find the largest set of values of $$ k $$ for which the simultaneous linear equations $$ kx+5y=k+5 $$ and $$ 4x+(k+1)y=0 $$ have ∞ solutions for $$ (x, y) $$. (2023 Methods Exam 2 Section A Question 4)
 
-![simlin(m, 7, 12, 7, m, m, m)]({{ '/files/simlin.png' | relative_url }})
+![simlin(k, 5, k+5, 4, k+1, 0, k)]({{ '/files/simlin.png' | relative_url }})
 
 #### Contributed by [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})

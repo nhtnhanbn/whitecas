@@ -19,8 +19,8 @@ Returns a list of coordinates of stationary points on *f* in the domain **x**ϵ[
 
 ### Example
 
-The coordinates of the stationary points of $$ y = (x-2)^2 (x-a) $$ are $$ (2, 0) $$ and $$ (p(a+1), q(a-2)^3) $$. Find $$ p $$ and $$ q $$. (2017 NHT Methods Exam 2 Section B Question 2d)
+Find the coordinates of the stationary points of $$ f(x) = x(x-2)(x+1) $$. (2023 Methods Exam 2 Section B Question 1b)
 
-![statpts((x-2)^2 (x-a), -2, ∞)]({{ '/files/statpts.png' | relative_url }})
+![statpts(x(x-2)(x+1), -∞), ∞)]({{ '/files/statpts.png' | relative_url }})
 
 #### Contributed by [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})

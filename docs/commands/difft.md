@@ -21,8 +21,8 @@ Returns $$ \dfrac{ d^{n} y }{ d x^{n} } $$.
 
 ### Example
 
-Find $$ \dfrac{dy}{dx} $$ in terms of $$ t $$ given that $$ x = \sin(t) - \cos(t) $$ and $$ y = \dfrac{1}{2}\sin(2t) $$. (2016 Specialist Exam 2 Section A Question 7)
+Find $$ \dfrac{dy}{dx} $$ when $$ t=2 $$ given that $$ x = \dfrac{6t}{t+1} $$ and $$ y = \dfrac{-8}{t^2 + 4} $$. (2023 Specialist Exam 2 Section A Question 9)
 
-![difft(sin(t)-cos(t), sin(2t)/2, t, 1)]({{ '/files/difft.png' | relative_url }})
+![difft(6t/(t+1), -8/(t^2+4), t, 1), t=2]({{ '/files/difft.png' | relative_url }})
 
 #### Contributed by [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})

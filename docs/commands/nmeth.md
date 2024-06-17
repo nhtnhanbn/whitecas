@@ -13,14 +13,12 @@ nmeth(*f*, *xa*, *n*)
 - *xa* is the initial guess for the **x**-value of a root of *f*
 - *n* is the number of iterations
 
-Applies Newton's method for *n* iterations. Prints the details of each iteration and returns the coordinates following the *n*-th iteration.
+Applies Newton's method for *n* iterations. Prints the details of each iteration and returns the coordinates following the *n*-th iteration. Column *i* is the iteration number, *x* is $$ x_i $$, *y* is $$ f(x_i) $$, *dy/dx* is $$ f'(x_i) $$ and *δx* is $$ x_{i+1} - x_i =  - \dfrac{f(x_i)}{f'(x_i)} $$.
 
 ### Example
 
-Find the number of iterations of Newton's method, with an initial guess of $$ x_0 = 1 $$, after which the $$ x $$-value of the non-zero root of $$ f(x) = \dfrac{x^3}{5} - \sqrt{x} $$ is first approximated correct to 3 decimal places. (Sample Methods Exam 2 Section A Question 2)
+Find $$ x_1 $$, $$ x_2 $$ and $$ x_3 $$ using Newton's method with $$ x_0 = 0 $$ to approximate an x-intercept of $$ h(x) = 2^x - x^2 $$. (2023 Methods Exam 2 Section B Question 3f)
 
-![nmeth(f(x), 1, 9)]({{ '/files/nmeth0.png' | relative_url }})
-
-![]({{ '/files/nmeth1.png' | relative_url }})
+![nmeth(2^x-x^2, 0, 3)]({{ '/files/nmeth.png' | relative_url }})
 
 #### Contributed by [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})

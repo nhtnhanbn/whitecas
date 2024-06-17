@@ -17,8 +17,8 @@ Returns the probability of *x* successes from *n* trials with *p* probability of
 
 ### Example
 
-Four fair coins are tossed at the same time. Find the probability that there is an equal number of heads and tails, given that there is at least one head. (2021 Methods Exam 2 Section A Question 15)
+A box contains $$ n $$ green balls and $$ m $$ red balls. A ball is selected at random, then replaced in the box. Find the probability that in 8 such selections a green ball is selected at least once. (2023 Methods Exam 2 Section A Question 8)
 
-![biPDf(2, 4, 1/2)/(1-biPDf(0, 4, 1/2))]({{ '/files/biPDf.png' | relative_url }})
+![1 - biPDf(0, 8, n(n+m))]({{ '/files/biPDf.png' | relative_url }})
 
 #### Contributed by [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})

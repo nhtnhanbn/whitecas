@@ -19,10 +19,8 @@ Returns a list of coordinates of x-axis and y-axis intercepts on *f* in the doma
 
 ### Example
 
-Let $$ f(x)=8-2^{x-1} $$. Find the area bound by the graph of $$ f(x) $$ and the line connecting the axis intercepts of $$ f(x) $$. (2019 NHT Methods Exam 2 Section A Question 18)
+Find the axis intercepts of $$ y = x(x - 2)(x + 1) $$. (2023 Methods Exam 2 Section B Question 1a)
 
-This solution also uses [lineof]({{ '/docs/commands/lineof' | relative_url }}).
-
-![axisints(8-2^(x-1), -∞, ∞)]({{ '/files/axisints.png' | relative_url }})
+![axisints(x(x-2)(x+1), -∞, ∞)]({{ '/files/axisints.png' | relative_url }})
 
 #### Contributed by [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})

@@ -19,8 +19,8 @@ Returns the volume of the solid obtained by rotating the graph of *f* between *x
 
 ### Example
 
-$$ f(x) = \dfrac{x}{1+x^3} $$. Find the value of $$ a $$ such that the volume of the solid obtained by rotating the graph of $$ f(x) $$ between $$ x=0 $$ and $$ x=a $$ around the $$ x $$-axis equals the volume of the solid obtained by rotating the graph of $$ f(x) $$ between $$ x=a $$ and $$ x=3 $$ around the $$ x $$-axis. (2017 Specialist Exam 2 Section B Question 1cii)
+Find the volume of the solid of revolution obtained by rotating the graph of $$ y^2 = x - 1 $$ between $$ x=2 $$ and $$ x=5 $$ around the $$ x $$-axis. (2023 Specialist Exam 2 Section B Question 3a)
 
-![solve(vosor(f(x), x, 0, a)=vosor(f(x), x, a, 3), a)]({{ '/files/vosor.png' | relative_url }})
+![vosor(sqrt(x-1), x, 2, 5)]({{ '/files/vosor.png' | relative_url }})
 
 #### Contributed by [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})

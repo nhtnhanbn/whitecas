@@ -19,8 +19,8 @@ Returns the arc length of *r* between *t* = *a* and *t* = *b*.
 
 ### Example
 
-Find the arc length of the curve described by $$ x = \sin(2t) $$ and $$ y = 2\cos(t) $$, between $$ t = 0 $$ and $$ t = 2\pi $$. (2018 Specialist Exam 2 Section A Question 7)
+Find the arc length of the curve described by $$ x = 2 \cos(t) + 2 $$ and $$ y = (e-2) \sin(t) $$, between $$ t = \dfrac{\pi}{2} $$ and $$ t = \pi $$. (2023 Specialist Exam 2 Section B Question 1f)
 
-![arcLenv([sin(2t),2cos(t)], 0, 2pi)]({{ '/files/arcLenv.png' | relative_url }})
+![arcLenv([2cos(t)+2, (e-2)sin(t)], t, pi/2, pi)]({{ '/files/arcLenv.png' | relative_url }})
 
 #### Contributed by [{{ site.data.contributors.nathanchen.name }}]({{ site.data.contributors.nathanchen.url }})

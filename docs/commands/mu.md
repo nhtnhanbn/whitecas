@@ -24,14 +24,15 @@ Returns the mean of the continuous probability distribution defined by the proba
 
 ### Example
 
-Find the expected value of $$ t $$ for the probability density function
+Find the expected value of $$ v $$ for the probability density function
 
-$$ \left\{ \begin{array}{ll}
-\dfrac{3}{50} \left( \dfrac{t}{50} \right) ^ 2 e^{ - \left( \tfrac{t}{50} \right) ^ 3 } & t \geq 0 \\
-\ 0 & t < 0 \end{array}
+$$ f(v) =
+\left\{ \begin{array}{ll}
+\dfrac{1}{6 \pi} \sin \left( \sqrt{ \dfrac{v-30}{3} } \right) & 30 \leq v \leq 3 \pi^2 + 30 \\
+\ 0 & \mathrm{elsewhere} \end{array}
 \right. $$
 
-(2018 Methods Exam 2 Section B Question 4e)
+(2023 Methods Exam 2 Section B Question 4i)
 
 ![mu(3/50 (t/50)^2 e^(-(t/50)^3), t, 0, ∞)]({{ '/files/mu.png' | relative_url }})
 

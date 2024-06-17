@@ -20,8 +20,8 @@ Returns a differential equation relating **Q** the quantity of solute in the tan
 
 ### Example
 
-A tank initially has $$ 300 \mathrm{g} $$ salt dissolved in $$ 50 \mathrm{L} $$ water, with water containing $$ 15 \mathrm{g/L} $$ salt flowing into the tank at $$ 2 \mathrm{L/minute} $$ and solution flowing out of the tank at $$ 5 \mathrm{L/minute} $$. Find the equation which relates the mass of salt and time. (2020 Specialist Exam 2 Section A Question 10)
+A tank initially has some quantity of chemical dissolved in $$ 8000 \mathrm{L} $$ water, with fresh water flowing into the tank at $$ 15 \mathrm{L/minute} $$ and solution flowing out of the tank at $$ 20 \mathrm{L/minute} $$. Find the equation which relates the mass of chemical and time. (2023 Specialist Exam 2 Section A Question 8)
 
-![tank(2, 15, 5, 50, 300)]({{ '/files/tank.png' | relative_url }})
+![tank(15, 0, 20, 8000, Qo)]({{ '/files/tank.png' | relative_url }})
 
 #### Contributed by [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})

@@ -19,8 +19,8 @@ Returns the area of the surface obtained by rotating the graph of *f* between *x
 
 ### Example
 
-Find the area of the surface of revolution obtained by rotating the graph of $$ y = x^2 $$ between $$ x=0 $$ and $$ x=2 $$ around the $$ x $$-axis.
+Find the integral that gives the area of the surface of revolution obtained by rotating the graph of $$ y = \cos^{-1}(x) $$ between $$ y = 0 $$ and $$ y = \dfrac{\pi}{2} $$ around the $$ y $$-axis. (2023 Specialist Exam 2 Section A Question 11)
 
-![aosor(x^2, x, 0, 2)]({{ '/files/aosor.png' | relative_url }})
+![aosor(cos(y), y, 0, pi/2)]({{ '/files/aosor.png' | relative_url }})
 
 #### Contributed by [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})

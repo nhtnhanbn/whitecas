@@ -19,8 +19,8 @@ Returns the solutions for *e* and *f* given constant acceleration and the provid
 
 ### Example
 
-Find the time taken for a camera to hit the ground, experiencing acceleration due to only gravity after being dropped from a balloon $$ 50 \mathrm{m} $$ above the ground ascending at $$ 2 \mathrm{m/s} $$. (2018 Specialist Exam 2 Section A Question 17)
+Find the time taken for a phone to hit the ground, experiencing acceleration due to only gravity after being dropped from a balloon $$ 80 \mathrm{m} $$ above the ground ascending at $$ 2.5 \mathrm{m/s} $$. (2023 Specialist Exam 2 Section A Question 13)
 
-![suvat(s=-50, u=2, a=-9.8, v, t)]({{ '/files/suvat.png' | relative_url }})
+![suvat(s=-80, u=2.5, a=-9.8, v, t)]({{ '/files/suvat.png' | relative_url }})
 
 #### Contributed by [{{ site.data.contributors.nathanchen.name }}]({{ site.data.contributors.nathanchen.url }}), [{{ site.data.contributors.nhan.name }}]({{ site.data.contributors.nhan.url }})
