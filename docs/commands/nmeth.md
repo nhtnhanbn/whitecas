@@ -13,7 +13,7 @@ nmeth(*f*, *xa*, *n*)
 - *xa* is the initial guess for the **x**-value of a root of *f*
 - *n* is the number of iterations
 
-Applies Newton's method for *n* iterations. Prints the details of each iteration and returns the coordinates following the *n*-th iteration. Column *i* is the iteration number, *x* is $$ x_i $$, *y* is $$ f(x_i) $$, *dy/dx* is $$ f'(x_i) $$ and *δx* is $$ x_{i+1} - x_i =  - \dfrac{f(x_i)}{f'(x_i)} $$.
+Applies Newton's method to approximate an **x**-intercept of *f* for *n* iterations. Prints the details of each iteration and returns the coordinates following the *n*-th iteration. Column *i* is the iteration number, *x* is $$ x_i $$, *y* is $$ f(x_i) $$, *dy/dx* is $$ f'(x_i) $$ and *δx* is $$ x_{i+1} - x_i =  - \dfrac{f(x_i)}{f'(x_i)} $$.
 
 ### Example
 

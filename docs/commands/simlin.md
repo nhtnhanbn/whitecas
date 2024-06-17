@@ -13,9 +13,9 @@ simlin(*a*, *b*, *c*, *d*, *e*, *f*, *g*)
 - *g* is a variable name
 
 Returns a list.
-- 0th item is values of *g* for which the 2 lines intersect 0 times.
-- 1st item is values of *g* for which the 2 lines intersect 1 time.
-- 2nd item is values of *g* for which the 2 lines intersect ∞ times.
+- 1st item is values of *g* for which the 2 lines intersect 0 times.
+- 2nd item is values of *g* for which the 2 lines intersect 1 time.
+- 3rd item is values of *g* for which the 2 lines intersect ∞ times.
 
 ### Example
 

@@ -1,4 +1,5 @@
 ---
+latex: true
 slug: biPDf
 commandtype: Function
 title: biPDf (Function) - ClassPad Commands

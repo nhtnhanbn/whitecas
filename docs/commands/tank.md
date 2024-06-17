@@ -20,7 +20,7 @@ Returns a differential equation relating **Q** the quantity of solute in the tan
 
 ### Example
 
-A tank initially has some quantity of chemical dissolved in $$ 8000 \mathrm{L} $$ water, with fresh water flowing into the tank at $$ 15 \mathrm{L/minute} $$ and solution flowing out of the tank at $$ 20 \mathrm{L/minute} $$. Find the equation which relates the mass of chemical and time. (2023 Specialist Exam 2 Section A Question 8)
+A tank initially has some quantity of chemical dissolved in 8000 L water, with fresh water flowing into the tank at 15 L/minute and solution flowing out of the tank at 20 L/minute. Find the equation which relates the mass of chemical and time. (2023 Specialist Exam 2 Section A Question 8)
 
 ![tank(15, 0, 20, 8000, Qo)]({{ '/files/tank.png' | relative_url }})
 
