@@ -8,7 +8,7 @@ sm: true
 update: 23/11/2022
 ---
 
-aroc(*r*, *t*, *a*, *b*)
+arcLenv(*r*, *t*, *a*, *b*)
 
 - *r* is a vector in terms of *t*
 - *t* is a variable name
