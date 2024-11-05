@@ -1,9 +1,9 @@
 ---
 ---
 
-## nhtnhanbn.github.io/whitecas
+## whitecas.nhan.au
 
-Site created and maintained by [Nhan](https://nhtnhanbn.github.io).
+Site created and maintained by [Nhan](https://nhan.au).
 
 Custom commands for the Casio ClassPad II designed especially for VCE Mathematical Methods and Specialist Mathematics.
 
@@ -14,10 +14,10 @@ Free to use, copy and modify, but please be decent and play fair.
 
 Why free? Only our unbounded benevolence.
 
-Visit the site: [nhtnhanbn.github.io/whitecas](https://nhtnhanbn.github.io/whitecas)
+Visit the site: [whitecas.nhan.au](https://whitecas.nhan.au)
 
 ### Contributors
-[Nhan](https://nhtnhanbn.github.io), Nathan Chen, [Kevin](https://lazymath.github.io), [Charlie Watson](https://charliewatson.com/casio/cpintro.php)
+[Nhan](https://nhan.au), Nathan Chen, [Kevin](https://lazymath.github.io), [Charlie Watson](https://charliewatson.com/casio/cpintro.php)
 
 ### The custom commands made possible thanks to
 [Charlie Watson](https://charliewatson.com/casio/cpintro.php),
